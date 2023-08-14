@@ -1,0 +1,217 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.navbar-brand p {
+    font-size: 15px;
+    padding-left: 7px;
+    margin-top: -10px;
+}
+
+.mid {
+    background-color: lightgray;
+    height: 600px;
+    width: 100%;
+}
+
+.image img {
+    width: 100%;
+    padding: 35px; 
+}
+
+.midtext {
+
+    text-align: left;
+    padding: 200px;
+    /* padding-top: 30px; */
+}
+.midtext button{
+    background-color: darkgrey;
+}
+
+.q {
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+}
+
+.q i {
+    font-size: 70px;
+    padding: 30px;
+}
+
+.w {
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.w i {
+    font-size: 70px;
+    padding: 30px;
+
+}
+
+.e {
+
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+}
+
+.e i {
+    font-size: 70px;
+    padding: 30px;
+}
+
+.r {
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+}
+
+.r i {
+    font-size: 70px;
+    padding: 30px;
+}
+.maintext{
+    text-align: center;
+    padding: 50px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.a h5{
+    font-family: 'Times New Roman', Times, serif;
+}
+.a img{
+    padding-top: 20px;
+}
+.a p{
+    padding-top: 20px;
+}
+.a a{
+    font-family: 'Times New Roman', Times, serif;
+}
+.b h5{
+    font-family: 'Times New Roman', Times, serif;
+}
+.b img{
+    padding-top: 20px;
+}
+.b p{
+    padding-top: 20px;
+}
+.b a{
+    font-family: 'Times New Roman', Times, serif;
+}
+.c h5{
+    font-family: 'Times New Roman', Times, serif;
+}
+.c img{
+    padding-top: 20px;
+}
+.c p{
+    padding-top: 20px;
+}
+.c a{
+    font-family: 'Times New Roman', Times, serif;
+}
+.d h5{
+    font-family: 'Times New Roman', Times, serif;
+}
+.d img{
+    padding-top: 20px;
+}
+.d p{
+    padding-top: 20px;
+}
+.d a{
+    font-family: 'Times New Roman', Times, serif;
+}
+.bottom{
+    background: black;
+    padding: 30px;
+}
+.m h5{
+    color:aliceblue;
+    padding-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+}
+.m h6{
+    color: lightpink;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+    padding-top: 35px;
+   
+}
+.m p{
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+    color: grey;
+}
+.m p2{
+    font-family: 'Times New Roman', Times, serif;
+    color: grey;
+}
+.n h5{
+    color:aliceblue;
+    padding-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    padding-left: 19px;
+}
+.n ul{
+    padding-top: 35px;
+    color: lightpink;
+}
+.o h5{
+    color:aliceblue;
+    padding-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+}
+.o p{
+    font-family: 'Times New Roman', Times, serif;
+    color: grey;
+    padding-top: 35px;
+
+} 
+.v h5{
+    color:aliceblue;
+    padding-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    padding-left: 19px;
+}
+.v form {
+    padding-top: 35px;
+    padding-left: 17px;
+    
+}
+.v form input{
+    color: gray;
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 12px;
+    width: 80%;
+
+}
+.v button{
+    margin-left: 17px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.last{
+    padding-left: 19px;
+    padding-top: 20px;
+    font-size: 20px;
+    color: lightgray;
+}
